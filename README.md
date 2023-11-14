@@ -1,2 +1,1 @@
-# printf
-repository for the 0x11. C - printf project 
+a repository for printf project
